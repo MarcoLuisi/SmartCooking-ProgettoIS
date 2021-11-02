@@ -79,7 +79,7 @@ public class CaricamentoVideo extends HttpServlet {
 
 
         InputStream fileContent = filePart.getInputStream();
-        File saveFile = new File("C:/Users/luisi/git/SmartCooking/provaSmartCooking3/WebContent/video");
+        File saveFile = new File("C:/Users/luisi/git/SmartCooking-ProgettoIS/provaSmartCooking3/WebContent/video");
 
 
         FileOutputStream output = null;
