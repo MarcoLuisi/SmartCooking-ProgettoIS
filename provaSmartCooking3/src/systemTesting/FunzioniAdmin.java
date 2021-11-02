@@ -66,7 +66,7 @@ public class FunzioniAdmin {
 		    
 		    Thread.sleep(1000);
 		    WebElement baseTable = driver.findElement(By.tagName("table"));
-		    WebElement tableRow = baseTable.findElement(By.xpath("//tr[26]")); //should be the third row
+		    WebElement tableRow = baseTable.findElement(By.xpath("//tr[9]")); //should be the third row
 		    WebElement cellIneed = tableRow.findElement(By.xpath("//td[5]"));
 		    cellIneed.findElement(By.id("xButton")).click();
 		    
