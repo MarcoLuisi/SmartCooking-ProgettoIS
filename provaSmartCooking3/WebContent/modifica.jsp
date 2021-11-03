@@ -345,7 +345,7 @@
                         <div class="form-group">
                             <div class="col-xs-12">
                                 <br>
-                                <button id="submitCaricamento" class="btn btn-lg btn-success" type="submit"><i class="glyphicon glyphicon-ok-sign"></i> Carica Video</button>
+                                <button id="submitCaricamento" class="btn btn-lg btn-success" type="submit"><i class="glyphicon glyphicon-ok-sign"></i> Modifica Video</button>
                                 <!--<button class="btn btn-lg" type="reset"><i class="glyphicon glyphicon-repeat"></i> Reset</button>-->
                             </div>
                         </div>
